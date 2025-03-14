@@ -4,6 +4,17 @@ Destacar que este material ha sido elaborado en conjunto con `Sander van Cranenb
 
 Su uso es exclusivo para el curso y sus estudiantes. No se permite compartir sin previa autorización.
 
+**Este material no forma parte de la evaluación del curso.** Su ejecución tiene como objetivo fomentar el aprendizaje en ambos lenguajes de programación y en los dos softwares más utilizados en el area de la modelación de elección discreta.
+
+
+| Fecha | Tipo | Actividad | Python notebook release | Solution | 
+|--------|------|-------------------------------|--------------------|----------------------|
+| 19/03 | A | Modelo Logit Biogeme | 14/03 | 02/04 |
+| 14/05 | A | Modelos Mixtos Biogeme| 14/05 | 28/05 |
+| 28/05 | A | Modelos Mixtos Biogeme | 28/05 | 04/06 |
+| 04/06 | A | Modelos de clases Biogeme | 04/06 | 25/06 |
+| 25/06 | A | Machine Learning | 18/06 | 02/07 |
+
 ## Instructions to set up your Python workspace
 
 In this section, we will guide you through the configuration of your Python environment for the Latent Class choice modelling part of the course. You have three options for setting up your environment: Anaconda, PIP or Google Colab. We recommend using Anaconda.

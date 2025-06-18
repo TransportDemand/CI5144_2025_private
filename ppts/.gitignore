@@ -1,2 +1,5 @@
-Day1.pptx
-Day2.pptx
+# Ignore all PowerPoint files
+*.pptx
+
+# But do NOT ignore files with '_GN' in the name
+!*_GN.pptx
